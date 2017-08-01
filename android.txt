@@ -1,0 +1,3 @@
+title=kivy-spycam
+author=Jacek Nowak
+orientation=portrait
